@@ -4,3 +4,5 @@ At Federal Statistical Research Data Centers (FSRDCs), researchers use restricte
 Currently metadata is only provided for projects that solely use Census Bureau datasets. Project information will be updated quarterly. 
 
 The latest versions of the project metadata and research outputs workbooks can also be downloaded from https://www.census.gov/about/adrm/fsrdc/about/ongoing-projects.html. 
+
+Previous versions can be found on via the Tags page at https://github.com/uscensusbureau/fsrdc-external-census-projects/tags.
